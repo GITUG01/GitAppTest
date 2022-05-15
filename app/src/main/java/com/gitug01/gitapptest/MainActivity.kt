@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Log.e("test", "first")
         Log.e("test", "second")
         Log.e("test", "third")
+        Log.e("test", "fourth")
     }
 }
